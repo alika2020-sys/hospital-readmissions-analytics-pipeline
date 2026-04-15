@@ -1,4 +1,9 @@
 # 🏥 Hospital Readmissions Analytics Pipeline
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 An end-to-end data analytics and data warehouse engineering project analyzing U.S. hospital readmission rates using CMS (Centers for Medicare & Medicaid Services) data. This project mirrors the core responsibilities of a Data Warehouse Engineer supporting federal healthcare programs — including data cleaning, star schema design, advanced SQL analysis, performance optimization, compliance considerations, and AI/ML readiness.
 
