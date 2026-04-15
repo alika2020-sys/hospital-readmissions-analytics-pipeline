@@ -32,7 +32,7 @@ This project was designed to demonstrate applied expertise in data warehouse sys
 - [Python ETL Pipeline](#python-etl-pipeline)
 - [Cross-Database Compatibility](#cross-database-compatibility)
 - [Integrating Disparate Data Sources](#integrating-disparate-data-sources)
-- [How to Run This Project](#how-to-run-this-project)
+- [](#how-to-run-this-project)
 - [Future Improvements](#future-improvements)
 
 ---
@@ -612,6 +612,8 @@ DB_CONFIG = {
     "user":     "your_username",
     "password": "your_password"
 }
+> **Note:** Update the DB_CONFIG values in `python/etl_pipeline.py` 
+> with your local PostgreSQL credentials before running.
 
 CMS_FILE    = "FY_2026_Hospital_Readmissions_Reduction_Program_Hospital.csv"
 TRAIN_FILE  = "train_df.csv"
@@ -752,7 +754,7 @@ A core responsibility in federal healthcare data engineering is identifying oppo
 **Steps:**
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/hospital-readmissions-analytics-pipeline.git
+git clone https://github.com/alika2020-sys/hospital-readmissions-analytics-pipeline.git
 ```
 
 2. Option A — Manual import: Import the CSV files into PostgreSQL using DBeaver's import wizard
