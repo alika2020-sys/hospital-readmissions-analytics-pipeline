@@ -177,10 +177,7 @@ Raw CSV Files (CMS + Patient Level)
 
 A star schema was designed to optimize query performance and simplify reporting in Tableau. The fact table sits at the center with three dimension tables branching outward.
 
-```
 ![Star Schema Diagram](images/star_schema.png)
-
-```
 
 **Architectural decisions and trade-offs:**
 
