@@ -1,4 +1,3 @@
-# hospital-readmissions-analytics-pipeline
 # 🏥 Hospital Readmissions Analytics Pipeline
 
 An end-to-end data analytics and data warehouse engineering project analyzing U.S. hospital readmission rates using CMS (Centers for Medicare & Medicaid Services) data. This project mirrors the core responsibilities of a Data Warehouse Engineer supporting federal healthcare programs — including data cleaning, star schema design, advanced SQL analysis, performance optimization, compliance considerations, and AI/ML readiness.
@@ -777,7 +776,11 @@ sql/analysis/top_worst_performers.sql
 
 ---
 
+## Author
 
+**San**
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
 
 ---
 
