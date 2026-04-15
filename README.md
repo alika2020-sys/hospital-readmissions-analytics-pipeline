@@ -776,12 +776,6 @@ sql/analysis/top_worst_performers.sql
 
 ---
 
-## Author
-
-**San**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-
 ---
 
 *Data Source: Centers for Medicare & Medicaid Services (CMS) — Hospital Readmissions Reduction Program FY2026*
