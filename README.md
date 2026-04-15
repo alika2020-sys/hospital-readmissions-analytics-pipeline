@@ -48,6 +48,18 @@ This project analyzes FY2026 HRRP data to:
 - Build a scalable, production-ready star schema data warehouse for ongoing reporting
 - Establish data lineage, quality checks, and compliance standards across the full analytics lifecycle
 - Visualize findings through an interactive Tableau dashboard
+- ## Project Stats
+
+| Metric | Value |
+|--------|-------|
+| Total Hospitals Analyzed | 3,055 |
+| Total Records | 18,330 |
+| States Covered | 51 |
+| Readmission Measures | 6 |
+| SQL Queries Written | 15+ |
+| Data Quality Checks | 6 |
+| Patient Records | 7,000 |
+| Live Dashboard | [View on Tableau Public](https://public.tableau.com/app/profile/san.a7458/viz/U_S_HospitalReadmissionsAnalyticsDashboard/Dashboard1) |
 - Structure the data to support future AI/ML and NLP implementations
 
 ---
