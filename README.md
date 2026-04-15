@@ -178,25 +178,7 @@ Raw CSV Files (CMS + Patient Level)
 A star schema was designed to optimize query performance and simplify reporting in Tableau. The fact table sits at the center with three dimension tables branching outward.
 
 ```
-           dim_facility
-           ─────────────
-           facility_id (PK)
-           facility_name
-           state
-                │
-                │
-dim_measure ────┼──── fact_readmissions ──── dim_date
-─────────────   │     ─────────────────      ─────────────
-measure_id (PK) │     fact_id (PK)           date_id (PK)
-measure_code    │     facility_id (FK)        start_date
-measure_name    │     measure_id (FK)         end_date
-                │     date_id (FK)            start_year
-                       number_of_discharges   start_month
-                       number_of_readmissions end_year
-                       excess_readmission_ratio end_month
-                       predicted_readmission_rate
-                       expected_readmission_rate
-                       footnote_description
+          ![Star Schema Diagram](images/star_schema.png)
 ```
 
 **Architectural decisions and trade-offs:**
