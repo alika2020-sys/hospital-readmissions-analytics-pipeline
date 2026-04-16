@@ -513,8 +513,7 @@ The Tableau dashboard connects directly to PostgreSQL via the star schema and in
 
 **Power BI Migration Note:** This dashboard can be replicated in Power BI with minimal changes. The star schema connects directly to Power BI via the PostgreSQL connector. The fact-dimension relationships map directly to Power BI's model view. DAX measures would replace Tableau calculated fields for KPI cards and ratio calculations.
 
-<img width="1351" height="745" alt="image" src="https://github.com/user-attachments/assets/1bfb943a-6d68-4073-835a-ca9f4dd227fd" />
-
+![Dashboard](images/dashboard_full.png)
 ---
 
 ## Key Findings
